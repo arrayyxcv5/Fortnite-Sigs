@@ -21,8 +21,8 @@ GObjects                           -> 48 8B 0D ? ? ? ? 48 98 4C 8B 04 D1 48 8D 0
 
 GetObjectName                      -> 47 65 74 4F 75 74 65 72 4F 62 6A 65 63 74 ? ? 47 65 74 4F 62 6A 65 63 74 4E 61 6D 65
 
-CalculateProjectionMatrixGivenView -> 44 65 6C 74 61 53 65 63 6F 6E 64 73 ?? ?? ?? ?? 47  65 74 56 69 65 77 50 72 6F 6A 65 63 74 69 6F (sorry it was wrong before xd)
+CalculateProjectionMatrixGivenView -> 44 65 6C 74 61 53 65 63 6F 6E 64 73 ? ? ? ? 47  65 74 56 69 65 77 50 72 6F 6A 65 63 74 69 6F (sorry it was wrong before xd)
 
-LineOfSightTo                      -> 40 55 53 56 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 E0 49
+LineOfSightTo                      -> 7F ? ? 43 68 65 63 6B 4C 69 6E 65 4F 66 53 69 67 68 74 54 6f 41 63 74
 
 
