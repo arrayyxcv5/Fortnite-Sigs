@@ -19,7 +19,7 @@ GetViewPoint                       -> 48 89 5C 24 ? 48 89 74 24 ? 57 48 83 EC 20
 
 GObjects                           -> 48 8B 0D ? ? ? ? 48 98 4C 8B 04 D1 48 8D 0C 40 49 8D 04 C8 EB ?
 
-GetObjectName                      -> 47 65 74 4F 75 74 65 72 4F 62 6A 65 63 74 ? ? 47 65 74 4F 62 6A 65 63 74 4E 61 6D 65
+GetObjectName                      -> 47 65 74 4F 75 74 65 72 4F 62 6A 65 63 74 ? ? 47 65 74 4F 62 6A 65 63 74 4E 61 6D 65 ? ? ?
 
 CalculateProjectionMatrixGivenView -> 44 65 6C 74 61 53 65 63 6F 6E 64 73 ? ? ? ? 47  65 74 56 69 65 77 50 72 6F 6A 65 63 74 69 6F (sorry it was wrong before xd)
 
